@@ -10,4 +10,6 @@ public class MyRestController {
     public String getHello(){
         return "Whats Up, People !";
     }
+
+
 }
